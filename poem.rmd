@@ -15,6 +15,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+He took his vorpal sword in hand:      
+Long time the manxome foe he sought      
+So rested he by the Tumtum tree,      
+And stood awhile in thought.      
+And, as in uffish thought he stood,  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
